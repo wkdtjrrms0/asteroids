@@ -13,3 +13,6 @@ Git to find the commit where a bug was introduced. To play the modified version
 of the game, simply open the index.html file in your web browser.
 
 Many thanks to Doug for creating this awesome game.
+
+
+깃, 깃허브 심화강의를 진행한 리포
