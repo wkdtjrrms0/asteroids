@@ -688,7 +688,7 @@ Asteroid = function () {
   this.postMove = this.wrapPostMove;
 
   this.collidesWith = ["ship", "bullet", "bigalien", "alienbullet"];
-
+//test
   this.breakIntoFragments = function () {
     for (var i = 0; i < 3; i++) {
       var roid = $.extend(true, {}, this);
